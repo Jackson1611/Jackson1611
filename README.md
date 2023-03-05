@@ -16,9 +16,11 @@
       <img height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
-      <img height="40px" src="https://cdn.svgporn.com/logos/mongodb.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg"/>
     </div>
   </div>
   <div style="flex: 1;">
