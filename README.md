@@ -24,7 +24,7 @@
     </div>
   </div>
   <div style="flex: 1;">
-    <h3>Statistics</h3>
+    <h3>---------------------------------------------------------</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson1611&layout=compact&theme=dark" />
     </a>
