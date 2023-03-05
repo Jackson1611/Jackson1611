@@ -3,16 +3,17 @@
     <h2>Hi there! I'm Jackson, a junior full stack developer with a passion for building web applications that are user-friendly, scalable and efficient.</h2>
     <h3>Skills</h3>
     <ul>
-      <li>Front-end development: HTML, CSS, Bootstrap, React, React Native</li>
+      <li>Front-end development: HTML, CSS, Bootstrap,JavaScript, TypeScript, React, React Native</li>
       <li>Back-end development: Node.js, Express.js, Java, Spring Boot</li>
-      <li>Database: MongoDB, PostgreSQL, SQL</li>
-      <li>Data: PowerBI,Azure</li>
+      <li>Database: MongoDB, PostgreSQL, MySQL</li>
+      <li>Data: PowerBI, Azure</li>
       <li>Version control: Git</li>
     </ul>
     <div style="display: flex; justify-content: space-around; margin-top: 10px;">
       <img height="40px" src="https://cdn.svgporn.com/logos/react.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/java.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/mongodb.svg"/>
