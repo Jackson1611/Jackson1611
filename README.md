@@ -1,7 +1,6 @@
 <div style="display: flex; margin-bottom: 20px;">
   <div style="flex: 1; ">
     <h2>Hi there! I'm Jackson, a junior full stack developer with a passion for building web applications that are user-friendly, scalable and efficient.</h2>
-    <h3>Skills</h3>
     <ul>
       <li>Front-end development: HTML, CSS, Bootstrap,JavaScript, TypeScript, React, React Native</li>
       <li>Back-end development: Node.js, Express.js, Java, Spring Boot</li>
