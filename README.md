@@ -2,13 +2,16 @@
   <div style="flex: 1; ">
     <h2>Hi there! I'm Jackson, a junior full stack developer with a passion for technology.</h2>
     <ul>
-      <li>Front-end development: HTML, CSS, Bootstrap,JavaScript, TypeScript, React, React Native</li>
+      <li>Front-end development: HTML, CSS, Bootstrap,Tailwind CSS, JavaScript, TypeScript, React, React Native</li>
       <li>Back-end development: Node.js, Express.js, Java, Spring Boot</li>
       <li>Database: MongoDB, PostgreSQL, MySQL</li>
       <li>Data: PowerBI, Azure</li>
       <li>Version control: Git</li>
     </ul>
     <div style="display: flex; justify-content: space-around; margin-top: 10px;">
+      <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/react.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/java.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"/>
@@ -20,6 +23,7 @@
       <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg"/>
+      
     </div>
   </div>
   <div style="flex: 1;">
