@@ -23,7 +23,6 @@
       <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg"/>
-      
     </div>
   </div>
   <div style="flex: 1;">
