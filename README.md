@@ -25,5 +25,10 @@
       <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg"/>
     </div>
   </div>
-  
+  <div style="flex: 1;">
+    <h3>------------------------------------------------------------</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson1611&layout=compact&theme=dark" />
+    </a>
+  </div>
 </div>
