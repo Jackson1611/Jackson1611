@@ -27,8 +27,10 @@
   </div>
   <div style="flex: 1;">
     <h3>------------------------------------------------------------</h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson1611&layout=compact&theme=dark" />
+    <a href="https://github.com/Jackson1611">
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson1611&layout=compact&theme=dark" height="160" align="center" />
     </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackson1611&theme=dark" height="160" align="center"></img>
+  
   </div>
 </div>
