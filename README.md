@@ -5,7 +5,6 @@
       <li>Front-end development: HTML, CSS, Bootstrap,Tailwind CSS, JavaScript, TypeScript, React, React Native</li>
       <li>Back-end development: Node.js, Express.js, Java, Spring Boot</li>
       <li>Database: MongoDB, PostgreSQL, MySQL</li>
-      <li>Data: PowerBI, Azure</li>
       <li>Version control: Git</li>
     </ul>
     <div style="display: flex; justify-content: space-around; margin-top: 10px;">
