@@ -26,9 +26,7 @@
   </div>
   <div style="flex: 1;">
     <h3>-----------------------------------------------------------------------------</h3>
-    <a href="https://github.com/Jackson1611">
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson1611&layout=compact&theme=dark&hide_border=true" height="140" align="center" />
-    </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackson1611&theme=dark&hide_border=true" height="140" align="center" ></img>
   
   </div>
