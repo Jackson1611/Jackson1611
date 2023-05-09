@@ -20,8 +20,7 @@
       <img height="40px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
-      <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"/>
-      <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"/> 
     </div>
   </div>
   <div style="flex: 1;">
