@@ -6,6 +6,7 @@
       <li>Back-end development: Node.js, Express.js, Java, Spring Boot</li>
       <li>Database: MongoDB, PostgreSQL, MySQL</li>
       <li>Version control: Git</li>
+      <li>I’m interested in DevOps and Cloud services</li>
     </ul>
     <div style="display: flex; justify-content: space-around; margin-top: 10px;">
       <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg"/>
