@@ -3,7 +3,7 @@
     <h2>Hi there! I'm Loc Nguyen (Jackson), a junior full stack developer with a passion for technology.</h2>
     <ul>
       <li>Front-end development: HTML, CSS, Bootstrap,Tailwind CSS, JavaScript, TypeScript, React, React Native</li>
-      <li>Back-end development: Node.js, Express.js, Java, Spring Boot</li>
+      <li>Back-end development: NodeJS, Java, Spring Boot</li>
       <li>Database: MongoDB, PostgreSQL, MySQL</li>
       <li>Version control: Git</li>
       <li>I’m interested in DevOps and Cloud services</li>
