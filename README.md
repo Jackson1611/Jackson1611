@@ -13,6 +13,8 @@
       <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/react.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/dotnet.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/java.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
@@ -21,6 +23,7 @@
       <img height="40px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
       <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
+      <img height="40px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"/>
     </div>
   </div>
   <div style="flex: 1;">
